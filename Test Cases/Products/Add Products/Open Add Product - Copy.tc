@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open Add Product</description>
+   <name>Open Add Product - Copy</name>
+   <tag>addProduct</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>81a79d9b-22f8-42f9-8876-929eca1d01b0</testCaseGuid>
+</TestCaseEntity>

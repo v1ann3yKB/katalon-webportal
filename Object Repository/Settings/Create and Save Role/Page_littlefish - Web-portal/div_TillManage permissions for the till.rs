@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_TillManage permissions for the till</name>
+   <tag></tag>
+   <elementGuidId>0f938836-6b8b-428f-95d5-24552c652f2a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div[3]/div/div/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.css-z7mtfw</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>848168f8-592e-4f5b-9809-a9103f63638a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-z7mtfw</value>
+      <webElementGuid>c7fae95d-ad48-4dd4-92db-6b838d3679f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TillManage permissions for the till</value>
+      <webElementGuid>b107edd8-cadf-45bf-806a-563ab88d4a2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout-wrapper css-uinsfl&quot;]/div[@class=&quot;layout-content-wrapper MuiBox-root css-34b9xr&quot;]/main[@class=&quot;layout-page-content css-zyg32b&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-6 css-h2qpui&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-15j76c0&quot;]/div[@class=&quot;MuiBox-root css-mt4xnw&quot;]/div[@class=&quot;MuiBox-root css-1w2p18d&quot;]/div[@class=&quot;MuiBox-root css-j7qwjs&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiAccordion-root css-1xk0j7u&quot;]/div[@class=&quot;MuiButtonBase-root MuiAccordionSummary-root css-sv6g5y&quot;]/div[@class=&quot;MuiAccordionSummary-content css-13fgub3&quot;]/div[@class=&quot;MuiBox-root css-z7mtfw&quot;]</value>
+      <webElementGuid>e33504e1-d0f1-4f31-af54-b49452b41546</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[3]/div/div/div/div/div/div/div</value>
+      <webElementGuid>3f878d51-cd02-4db4-abb7-9c2758f7eb91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This is a dev role'])[1]/following::div[8]</value>
+      <webElementGuid>5eb9b28c-9e2b-4fee-8bda-188671e0d9db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Quick Item to Sale'])[1]/preceding::div[6]</value>
+      <webElementGuid>5f9169dc-11a9-4120-8067-13e38d91665e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Quick Amount Sale'])[1]/preceding::div[9]</value>
+      <webElementGuid>bcf1d022-cfb6-43db-ba53-b0f1e4f0e112</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/div</value>
+      <webElementGuid>8ced2bde-f7b6-4cdd-9e32-993b31ee1dc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'TillManage permissions for the till' or . = 'TillManage permissions for the till')]</value>
+      <webElementGuid>bc6c38b7-4273-40f4-b61d-ce752e66e81e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

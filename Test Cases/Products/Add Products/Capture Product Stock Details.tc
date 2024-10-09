@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Capture Product Stock Details</description>
+   <name>Capture Product Stock Details</name>
+   <tag>stockDetails</tag>
+   <comment></comment>
+   <testCaseGuid>0afb1e87-dc06-4304-8b3c-9a627d2118a9</testCaseGuid>
+</TestCaseEntity>

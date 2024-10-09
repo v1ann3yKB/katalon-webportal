@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open Add Product</description>
+   <name>Open Add Product - Testing</name>
+   <tag>addProduct</tag>
+   <comment></comment>
+   <testCaseGuid>79fde272-814f-4dde-bb6a-48fb451f3126</testCaseGuid>
+</TestCaseEntity>

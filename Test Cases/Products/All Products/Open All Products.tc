@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open All Products</description>
+   <name>Open All Products</name>
+   <tag>products</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c45add73-c22a-4fdc-97b7-17094b7f8392</testCaseGuid>
+</TestCaseEntity>

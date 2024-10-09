@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sign in to the web portal (P) and view the password in the process</description>
+   <name>Sign in to the web portal (P)</name>
+   <tag>SignIn</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e2019697-6044-419d-81c2-8717260daa5b</testCaseGuid>
+</TestCaseEntity>

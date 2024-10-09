@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add New Products</name>
+   <tag></tag>
+   <elementGuidId>f27eb95d-0e5d-4d41-b5bc-e369f7ef776c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div[3]/div/ul/li[2]/ul/div/div/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8c23298c-0e1c-46ef-b48c-54ac8a52976f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters MuiListItemButton-root MuiListItemButton-gutters  css-dj5t28</value>
+      <webElementGuid>ef909992-b5f8-4969-9e4e-68058140d33b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>95821939-edcc-43f0-9a6e-4c20d4a44800</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/product/manage-products/null/</value>
+      <webElementGuid>6ba131e1-9581-4b5c-bcb0-fe33cdc0870a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add New Products</value>
+      <webElementGuid>ad0697e8-d027-4c57-8622-3cd8b6ac9c14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout-wrapper css-uinsfl&quot;]/div[@class=&quot;MuiDrawer-root MuiDrawer-docked layout-vertical-nav css-1yvzy6r&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiDrawer-paper MuiDrawer-paperAnchorLeft MuiDrawer-paperAnchorDockedLeft css-be33tq&quot;]/div[@class=&quot;MuiBox-root css-ohwg9z&quot;]/div[@class=&quot;scrollbar-container ps&quot;]/ul[@class=&quot;MuiList-root MuiList-padding nav-items css-1ta9ch5&quot;]/li[@class=&quot;MuiListItem-root MuiListItem-gutters nav-group css-1ufr3ic&quot;]/ul[@class=&quot;MuiCollapse-root MuiCollapse-vertical MuiCollapse-entered css-1xtc0b9&quot;]/div[@class=&quot;MuiCollapse-wrapper MuiCollapse-vertical css-hboir5&quot;]/div[@class=&quot;MuiCollapse-wrapperInner MuiCollapse-vertical css-8atqhb&quot;]/li[@class=&quot;MuiListItem-root MuiListItem-gutters nav-link css-1r2py49&quot;]/a[@class=&quot;MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters MuiListItemButton-root MuiListItemButton-gutters  css-dj5t28&quot;]</value>
+      <webElementGuid>a3836d1c-bc13-418f-ab42-5f277939e9c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[3]/div/ul/li[2]/ul/div/div/li[2]/a</value>
+      <webElementGuid>55a63fc9-3d6d-42bf-bdd7-5c00918c64f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='littlefish'])[1]/following::a[3]</value>
+      <webElementGuid>361e7627-aea0-4467-b94a-087fbd64ba11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/preceding::a[6]</value>
+      <webElementGuid>9df1bdee-3df8-4c21-ab77-79b92bce8cc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Product'])[1]/preceding::a[6]</value>
+      <webElementGuid>7d790faf-e5a9-4203-ab32-fc1e76ad89cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/product/manage-products/null/')]</value>
+      <webElementGuid>fd3c7b23-9a8b-4590-b425-30d2049eaa5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>c6234b2a-8f9f-468d-a2bf-d46467fbe45e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/product/manage-products/null/' and (text() = 'Add New Products' or . = 'Add New Products')]</value>
+      <webElementGuid>92fd625e-e71d-44e3-bc3b-452ac4382361</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

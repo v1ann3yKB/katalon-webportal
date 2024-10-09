@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>b8580d15-ab4d-4b62-a9d5-29927a9eda6d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiAccordionSummary-expandIconWrapper.css-11nkr6m > svg.iconify.iconify--mdi > path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>3bbf42d9-3f7c-4d68-a016-94814135ccc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>bba84f6b-d8f3-4383-bac8-2f259ff811e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>m10 17l5-5l-5-5v10Z</value>
+      <webElementGuid>2974b5a6-5ad9-4d40-8bca-fd495f111437</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout-wrapper css-uinsfl&quot;]/div[@class=&quot;layout-content-wrapper MuiBox-root css-34b9xr&quot;]/main[@class=&quot;layout-page-content css-zyg32b&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-6 css-h2qpui&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-15j76c0&quot;]/div[@class=&quot;MuiBox-root css-mt4xnw&quot;]/div[@class=&quot;MuiBox-root css-1w2p18d&quot;]/div[@class=&quot;MuiBox-root css-j7qwjs&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiAccordion-root css-1xk0j7u&quot;]/div[@class=&quot;MuiButtonBase-root MuiAccordionSummary-root css-sv6g5y&quot;]/div[@class=&quot;MuiAccordionSummary-expandIconWrapper css-11nkr6m&quot;]/svg[@class=&quot;iconify iconify--mdi&quot;]/path[1]</value>
+      <webElementGuid>da0c265a-be1e-4b60-a239-0553a154db7c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>main_Add ProductAdd ProductCancelProductsAd_94c4b2</name>
+   <tag></tag>
+   <elementGuidId>f88d6e10-b71a-4bd1-8658-a87b77a18251</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>main.layout-page-content.css-zyg32b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>main</value>
+      <webElementGuid>0cbec98f-a04e-4557-aa87-d5516fc6b22e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>layout-page-content css-zyg32b</value>
+      <webElementGuid>94f28866-d4d4-4b25-83fa-cf3f0c660d9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add ProductAdd ProductCancelProducts/Add New ProductImagesAdd ImageDetailsNameNameCategory ​CategoryTagsTagsDescriptionDescription                                        ChannelsSelect Sales ChannelsChoose platforms where your product will be sold.In StoreOnlinePriceSelling Price per Item​RSelling Price per ItemCost Price per Item​RCost Price per ItemMargin0.00%Profit per ItemR0.00Stock DetailsTrack stock for this productAutogenerate SKUSKUSKUProduct OptionsRemoving/Adding of a new product option will reset all values.​AddRemoveManage VariantThe below information is used for managing the product variants.Manage variantManage inventory for variants</value>
+      <webElementGuid>2b958465-d989-4845-95e1-a119bc189a1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout-wrapper css-uinsfl&quot;]/div[@class=&quot;layout-content-wrapper MuiBox-root css-34b9xr&quot;]/main[@class=&quot;layout-page-content css-zyg32b&quot;]</value>
+      <webElementGuid>48f017d8-7cbf-4f46-a78b-e73d2ffcafdd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main</value>
+      <webElementGuid>02a801ae-d8f2-48c3-82e7-17e4850ddb38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administrator'])[1]/following::main[1]</value>
+      <webElementGuid>48b1cbb8-d4ad-4071-9f3d-8dc098cb9911</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='littlefish'])[1]/following::main[1]</value>
+      <webElementGuid>b69434cd-b3df-4ba7-8d88-8ac5a9406ddf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main</value>
+      <webElementGuid>a8b7332c-6465-49d2-8886-52592d8d6ceb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//main[(text() = 'Add ProductAdd ProductCancelProducts/Add New ProductImagesAdd ImageDetailsNameNameCategory ​CategoryTagsTagsDescriptionDescription                                        ChannelsSelect Sales ChannelsChoose platforms where your product will be sold.In StoreOnlinePriceSelling Price per Item​RSelling Price per ItemCost Price per Item​RCost Price per ItemMargin0.00%Profit per ItemR0.00Stock DetailsTrack stock for this productAutogenerate SKUSKUSKUProduct OptionsRemoving/Adding of a new product option will reset all values.​AddRemoveManage VariantThe below information is used for managing the product variants.Manage variantManage inventory for variants' or . = 'Add ProductAdd ProductCancelProducts/Add New ProductImagesAdd ImageDetailsNameNameCategory ​CategoryTagsTagsDescriptionDescription                                        ChannelsSelect Sales ChannelsChoose platforms where your product will be sold.In StoreOnlinePriceSelling Price per Item​RSelling Price per ItemCost Price per Item​RCost Price per ItemMargin0.00%Profit per ItemR0.00Stock DetailsTrack stock for this productAutogenerate SKUSKUSKUProduct OptionsRemoving/Adding of a new product option will reset all values.​AddRemoveManage VariantThe below information is used for managing the product variants.Manage variantManage inventory for variants')]</value>
+      <webElementGuid>b64ed5a7-65fb-4b7b-8a65-2aa9331e6a70</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

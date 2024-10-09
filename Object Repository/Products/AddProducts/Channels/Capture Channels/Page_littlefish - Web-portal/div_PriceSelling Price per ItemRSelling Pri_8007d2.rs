@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_PriceSelling Price per ItemRSelling Pri_8007d2</name>
+   <tag></tag>
+   <elementGuidId>ca9cd5d7-5be7-464b-b907-677ee5486325</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7cae78f8-bf57-47b9-a6ef-605f96c44f4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-p0ldcf</value>
+      <webElementGuid>caa4573c-7ff9-4042-925b-71663d7aa9d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PriceSelling Price per Item​RSelling Price per ItemCost Price per Item​RCost Price per ItemMargin0.00%Profit per ItemR0.00</value>
+      <webElementGuid>53141331-c1b1-4f24-8fde-1be013a8ced3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout-wrapper css-uinsfl&quot;]/div[@class=&quot;layout-content-wrapper MuiBox-root css-34b9xr&quot;]/main[@class=&quot;layout-page-content css-zyg32b&quot;]/div[@class=&quot;MuiBox-root css-p0ldcf&quot;]</value>
+      <webElementGuid>b637dd5b-3c2a-4f8f-8978-1be0d5bb3628</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div[5]</value>
+      <webElementGuid>7bef503a-31ed-453c-8595-dae464cb53ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Online'])[1]/following::div[1]</value>
+      <webElementGuid>e3e2973f-7a4f-4c1e-b879-4ff20b972a56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In Store'])[1]/following::div[1]</value>
+      <webElementGuid>53dec0eb-f906-46e6-bf29-bc829048d4a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]</value>
+      <webElementGuid>9b67a98d-3ac3-4895-81d2-6615bb7a16d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'PriceSelling Price per Item​RSelling Price per ItemCost Price per Item​RCost Price per ItemMargin0.00%Profit per ItemR0.00' or . = 'PriceSelling Price per Item​RSelling Price per ItemCost Price per Item​RCost Price per ItemMargin0.00%Profit per ItemR0.00')]</value>
+      <webElementGuid>038fbb09-39f1-4c3e-8937-7a04902beb39</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

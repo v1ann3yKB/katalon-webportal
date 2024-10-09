@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Online StoreView and manage online stor_f42c8f</name>
+   <tag></tag>
+   <elementGuidId>44f58cc5-7986-4dbf-a714-9bb309b56b01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div[4]/div/div/div/div[9]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f221eeef-822f-4f92-95f3-1f2908de0a47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-z7mtfw</value>
+      <webElementGuid>2ae1d54e-e5af-4e68-892f-f80eb2b33ce5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Online StoreView and manage online store information</value>
+      <webElementGuid>ade20ee3-d130-4933-a706-8c44a60b0aae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout-wrapper css-uinsfl&quot;]/div[@class=&quot;layout-content-wrapper MuiBox-root css-34b9xr&quot;]/main[@class=&quot;layout-page-content css-zyg32b&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-6 css-h2qpui&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-15j76c0&quot;]/div[@class=&quot;MuiBox-root css-mt4xnw&quot;]/div[@class=&quot;MuiBox-root css-1w2p18d&quot;]/div[@class=&quot;MuiBox-root css-j7qwjs&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiAccordion-root css-1xk0j7u&quot;]/div[@class=&quot;MuiButtonBase-root MuiAccordionSummary-root css-sv6g5y&quot;]/div[@class=&quot;MuiAccordionSummary-content css-13fgub3&quot;]/div[@class=&quot;MuiBox-root css-z7mtfw&quot;]</value>
+      <webElementGuid>fecfa370-040f-4dd1-8955-9294a39608fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[4]/div/div/div/div[9]/div/div/div</value>
+      <webElementGuid>41fe2bd2-e0d2-46d2-9927-449c6a2e731d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View and Manage Employees'])[1]/following::div[4]</value>
+      <webElementGuid>8a494565-60b7-4a22-8fab-a101905d265b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View and Manage Roles'])[1]/following::div[7]</value>
+      <webElementGuid>692cd805-6ac7-4922-8d6b-38ea9a05fa9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setup and Manage Online Store'])[1]/preceding::div[6]</value>
+      <webElementGuid>7e8dadc1-865a-40be-9778-b80aef61f92e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/div</value>
+      <webElementGuid>2cb1c56f-9bb9-47fb-90ca-bf0b1a5d24d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Online StoreView and manage online store information' or . = 'Online StoreView and manage online store information')]</value>
+      <webElementGuid>63b1ba56-3625-40ff-8541-f4702309fb62</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

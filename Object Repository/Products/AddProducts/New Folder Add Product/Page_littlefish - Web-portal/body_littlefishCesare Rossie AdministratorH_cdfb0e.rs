@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body_littlefishCesare Rossie AdministratorH_cdfb0e</name>
+   <tag></tag>
+   <elementGuidId>f859a155-cc98-49dc-8aa5-d620b1195163</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>body</value>
+      <webElementGuid>a0e4019f-7488-4c5b-8521-a912a4101017</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>littlefishCesare Rossie AdministratorHomeProductsAll ProductsAdd New ProductsReportsSales OverviewSettingsUsers &amp; RolesAdd ProductAdd ProductCancelProducts/Add New ProductImagesAdd ImageDetailsNameNameCategory DevicesCategoryTagspantsTagsDescriptiontestingDescription                                        testing 123ChannelsSelect Sales ChannelsChoose platforms where your product will be sold.In StoreOnlinePriceSelling Price per Item​RSelling Price per ItemCost Price per Item​RCost Price per ItemMargin20.00%Profit per ItemR20.00Stock DetailsTrack stock for this productAutogenerate SKUSKUSKUProduct Optionsabc​cbdRemoving/Adding of a new product option will reset all values.​AddRemoveManage VariantThe below information is used for managing the product variants.Manage variantManage inventory for variants​VariationPriceStatusSKUVisablityccbdR 120.00In-ActiveWGF1Y-KEN2J-AGF8I-R6RVZ1 row selectedRows per page:71–1 of 1{&quot;props&quot;:{&quot;pageProps&quot;:{}},&quot;page&quot;:&quot;/&quot;,&quot;query&quot;:{},&quot;buildId&quot;:&quot;ZR1aGfDLBwLKyLZbAA-81&quot;,&quot;nextExport&quot;:true,&quot;autoExport&quot;:true,&quot;isFallback&quot;:false,&quot;scriptLoader&quot;:[]}littlefish - Web-portalid(&quot;menu-&quot;)/div[@class=&quot;MuiBackdrop-root MuiBackdrop-invisible MuiModal-backdrop css-18hd20a&quot;]Edit Product - cbdProvide the below information for the product variant.All VAT information is taken from the parent product.Selling Price​RSelling PriceCost Price​RCost PriceSKUSKUStock CountStock CountLow Stock ValueLow Stock ValueStatusDisabledStatusImagesSelect Image(s) for your products and future variant(s).Add ImageCancelApplyEnabledDisabled</value>
+      <webElementGuid>daf4a781-aa07-494f-8f4e-c96fe66371e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[1]</value>
+      <webElementGuid>46299b12-416a-4a64-b981-d68fed7c7508</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body</value>
+      <webElementGuid>03ad0456-6bb7-42a6-9c63-468bc3937855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//body[(text() = 'littlefishCesare Rossie AdministratorHomeProductsAll ProductsAdd New ProductsReportsSales OverviewSettingsUsers &amp; RolesAdd ProductAdd ProductCancelProducts/Add New ProductImagesAdd ImageDetailsNameNameCategory DevicesCategoryTagspantsTagsDescriptiontestingDescription                                        testing 123ChannelsSelect Sales ChannelsChoose platforms where your product will be sold.In StoreOnlinePriceSelling Price per Item​RSelling Price per ItemCost Price per Item​RCost Price per ItemMargin20.00%Profit per ItemR20.00Stock DetailsTrack stock for this productAutogenerate SKUSKUSKUProduct Optionsabc​cbdRemoving/Adding of a new product option will reset all values.​AddRemoveManage VariantThe below information is used for managing the product variants.Manage variantManage inventory for variants​VariationPriceStatusSKUVisablityccbdR 120.00In-ActiveWGF1Y-KEN2J-AGF8I-R6RVZ1 row selectedRows per page:71–1 of 1{&quot;props&quot;:{&quot;pageProps&quot;:{}},&quot;page&quot;:&quot;/&quot;,&quot;query&quot;:{},&quot;buildId&quot;:&quot;ZR1aGfDLBwLKyLZbAA-81&quot;,&quot;nextExport&quot;:true,&quot;autoExport&quot;:true,&quot;isFallback&quot;:false,&quot;scriptLoader&quot;:[]}littlefish - Web-portalid(&quot;menu-&quot;)/div[@class=&quot;MuiBackdrop-root MuiBackdrop-invisible MuiModal-backdrop css-18hd20a&quot;]Edit Product - cbdProvide the below information for the product variant.All VAT information is taken from the parent product.Selling Price​RSelling PriceCost Price​RCost PriceSKUSKUStock CountStock CountLow Stock ValueLow Stock ValueStatusDisabledStatusImagesSelect Image(s) for your products and future variant(s).Add ImageCancelApplyEnabledDisabled' or . = 'littlefishCesare Rossie AdministratorHomeProductsAll ProductsAdd New ProductsReportsSales OverviewSettingsUsers &amp; RolesAdd ProductAdd ProductCancelProducts/Add New ProductImagesAdd ImageDetailsNameNameCategory DevicesCategoryTagspantsTagsDescriptiontestingDescription                                        testing 123ChannelsSelect Sales ChannelsChoose platforms where your product will be sold.In StoreOnlinePriceSelling Price per Item​RSelling Price per ItemCost Price per Item​RCost Price per ItemMargin20.00%Profit per ItemR20.00Stock DetailsTrack stock for this productAutogenerate SKUSKUSKUProduct Optionsabc​cbdRemoving/Adding of a new product option will reset all values.​AddRemoveManage VariantThe below information is used for managing the product variants.Manage variantManage inventory for variants​VariationPriceStatusSKUVisablityccbdR 120.00In-ActiveWGF1Y-KEN2J-AGF8I-R6RVZ1 row selectedRows per page:71–1 of 1{&quot;props&quot;:{&quot;pageProps&quot;:{}},&quot;page&quot;:&quot;/&quot;,&quot;query&quot;:{},&quot;buildId&quot;:&quot;ZR1aGfDLBwLKyLZbAA-81&quot;,&quot;nextExport&quot;:true,&quot;autoExport&quot;:true,&quot;isFallback&quot;:false,&quot;scriptLoader&quot;:[]}littlefish - Web-portalid(&quot;menu-&quot;)/div[@class=&quot;MuiBackdrop-root MuiBackdrop-invisible MuiModal-backdrop css-18hd20a&quot;]Edit Product - cbdProvide the below information for the product variant.All VAT information is taken from the parent product.Selling Price​RSelling PriceCost Price​RCost PriceSKUSKUStock CountStock CountLow Stock ValueLow Stock ValueStatusDisabledStatusImagesSelect Image(s) for your products and future variant(s).Add ImageCancelApplyEnabledDisabled')]</value>
+      <webElementGuid>d313a7ac-0368-40cc-a0a5-715953dce279</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

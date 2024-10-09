@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Capture Product Sales Channels</description>
+   <name>Capture Product Sales Channels</name>
+   <tag>salesChannels</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>df78f227-a283-40a9-a3f6-1f84224f5088</testCaseGuid>
+</TestCaseEntity>

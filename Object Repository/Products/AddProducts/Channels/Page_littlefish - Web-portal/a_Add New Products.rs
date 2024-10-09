@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add New Products</name>
+   <tag></tag>
+   <elementGuidId>f0ede018-f9b4-4874-8999-b6357c4931a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div[3]/div/ul/li[2]/ul/div/div/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8e2773f7-615f-4385-8b06-7fc8a2703458</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters MuiListItemButton-root MuiListItemButton-gutters  css-dj5t28</value>
+      <webElementGuid>2a287242-5f3c-498f-862c-aed399986896</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>6f91d99c-42be-4a0d-bb81-c9b71e7593a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/product/manage-products/null/</value>
+      <webElementGuid>6a6983f8-858b-420d-9d25-d6def21dfb37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add New Products</value>
+      <webElementGuid>2d04da8a-e17e-4b34-af7b-ca59f528575f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout-wrapper css-uinsfl&quot;]/div[@class=&quot;MuiDrawer-root MuiDrawer-docked layout-vertical-nav css-1yvzy6r&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiDrawer-paper MuiDrawer-paperAnchorLeft MuiDrawer-paperAnchorDockedLeft css-be33tq&quot;]/div[@class=&quot;MuiBox-root css-ohwg9z&quot;]/div[@class=&quot;scrollbar-container ps&quot;]/ul[@class=&quot;MuiList-root MuiList-padding nav-items css-1ta9ch5&quot;]/li[@class=&quot;MuiListItem-root MuiListItem-gutters nav-group css-1ufr3ic&quot;]/ul[@class=&quot;MuiCollapse-root MuiCollapse-vertical MuiCollapse-entered css-1xtc0b9&quot;]/div[@class=&quot;MuiCollapse-wrapper MuiCollapse-vertical css-hboir5&quot;]/div[@class=&quot;MuiCollapse-wrapperInner MuiCollapse-vertical css-8atqhb&quot;]/li[@class=&quot;MuiListItem-root MuiListItem-gutters nav-link css-1r2py49&quot;]/a[@class=&quot;MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters MuiListItemButton-root MuiListItemButton-gutters  css-dj5t28&quot;]</value>
+      <webElementGuid>6beda8ad-c6f9-4e95-b60d-5815249003a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[3]/div/ul/li[2]/ul/div/div/li[2]/a</value>
+      <webElementGuid>c28a07c6-301b-4312-921c-b35861d07ddf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='littlefish'])[1]/following::a[3]</value>
+      <webElementGuid>c721935c-9d3f-4fb9-a6bd-3d2cb7da758e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/product/manage-products/null/')]</value>
+      <webElementGuid>8247310b-936e-414e-940b-3861a8c4aaa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>b97a3c53-eb36-4d11-82d8-c55325ce55bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/product/manage-products/null/' and (text() = 'Add New Products' or . = 'Add New Products')]</value>
+      <webElementGuid>4cbfbee2-c5e4-4e17-8ced-5ae645fca21b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

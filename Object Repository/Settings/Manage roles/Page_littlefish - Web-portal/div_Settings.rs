@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Settings</name>
+   <tag></tag>
+   <elementGuidId>401cffaa-36aa-4644-8ba3-c3af16236720</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div[3]/div/ul/li[5]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>746ce398-4280-4ab9-b535-c4428ff8e238</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-164kvcj</value>
+      <webElementGuid>dd1b45b4-24e1-4610-9f4b-9a55ecc545f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Settings</value>
+      <webElementGuid>4a1c5988-9d94-478b-bcf8-80e8367ab90e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout-wrapper css-uinsfl&quot;]/div[@class=&quot;MuiDrawer-root MuiDrawer-docked layout-vertical-nav css-1yvzy6r&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiDrawer-paper MuiDrawer-paperAnchorLeft MuiDrawer-paperAnchorDockedLeft css-1fpp86o&quot;]/div[@class=&quot;MuiBox-root css-ohwg9z&quot;]/div[@class=&quot;scrollbar-container ps&quot;]/ul[@class=&quot;MuiList-root MuiList-padding nav-items css-143nwhm&quot;]/li[@class=&quot;MuiListItem-root MuiListItem-gutters nav-group css-1sl3anu&quot;]/div[@class=&quot;MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters MuiListItemButton-root MuiListItemButton-gutters css-1k6jua4&quot;]/div[@class=&quot;MuiBox-root css-164kvcj&quot;]</value>
+      <webElementGuid>0d6f4814-fd18-4ae9-930f-090d45b5426e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[3]/div/ul/li[5]/div/div[2]</value>
+      <webElementGuid>99809976-2595-49be-a539-37bc34a10f41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administrator'])[1]/following::div[37]</value>
+      <webElementGuid>fbaf1904-ff52-4fe1-8abd-dab727e76c6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='littlefish'])[1]/following::div[44]</value>
+      <webElementGuid>b8967f45-7e02-4e10-87f3-f55a43870e5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/div/div[2]</value>
+      <webElementGuid>0ae83cee-634b-464a-b943-3c8bd95f3c9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Settings' or . = 'Settings')]</value>
+      <webElementGuid>ecddfc8a-e816-45d2-9ffa-5836348bdac8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Manage StoreProduct CatalogueAccess and_7909cb</name>
+   <tag></tag>
+   <elementGuidId>2cf842ff-cd1f-4b7b-bd31-d532e6fbf6d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ff2c5e2f-9cb8-4e73-a437-4e6150855d4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-mt4xnw</value>
+      <webElementGuid>dbf502a3-eb2a-45c0-8978-0cc38f271edf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage StoreProduct CatalogueAccess and manage products, product categories and product combosProductsView, create, edit and delete products, product categories and product combosInventoryView and manage suppliers and inventory stockInventoryView and manage inventory, record stock take &amp; receive stockSuppliersView and manage suppliers, and manage supplier invoicesCustomersView and manage customersCustomersView, create, edit and delete customersManage customer store creditExpensesView and manage business expensesExpensesView, create, edit and delete expensesStore DetailsView and manage business information, tax information and customer receiptsBusiness DetailsManage business details, receipts and taxPayments &amp; Linked AccountsView and manage payment types and linked accountsPayment TypesSet up and manage payment types and linked accountsReportsView business analyticsReportsOverviewSalesProductsStockFinancial StatementUsers and RolesAccess and manage users and users' rolesUser ManagementView and Manage UsersView and Manage RolesView and Manage EmployeesOnline StoreView and manage online store informationOnline StoreSetup and Manage Online Store</value>
+      <webElementGuid>d04edacb-a8aa-4f6f-b294-a7eb2bba9f1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout-wrapper css-uinsfl&quot;]/div[@class=&quot;layout-content-wrapper MuiBox-root css-34b9xr&quot;]/main[@class=&quot;layout-page-content css-zyg32b&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-6 css-h2qpui&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-15j76c0&quot;]/div[@class=&quot;MuiBox-root css-mt4xnw&quot;]</value>
+      <webElementGuid>cb1e4105-4ec5-4f8d-a986-11a43d5c9e00</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[4]/div</value>
+      <webElementGuid>d7ba2541-7619-44eb-9142-a26c62ffd12d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View and process orders submitted from the online store'])[1]/following::div[2]</value>
+      <webElementGuid>3944c45b-2350-43bf-b861-6928b61ef588</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reprint Batch'])[1]/following::div[19]</value>
+      <webElementGuid>8be2d95f-bb49-42a5-bd38-ce891b1aff90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div</value>
+      <webElementGuid>f8bbbc22-edc5-4338-b306-2a47b293900e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Manage StoreProduct CatalogueAccess and manage products, product categories and product combosProductsView, create, edit and delete products, product categories and product combosInventoryView and manage suppliers and inventory stockInventoryView and manage inventory, record stock take &amp; receive stockSuppliersView and manage suppliers, and manage supplier invoicesCustomersView and manage customersCustomersView, create, edit and delete customersManage customer store creditExpensesView and manage business expensesExpensesView, create, edit and delete expensesStore DetailsView and manage business information, tax information and customer receiptsBusiness DetailsManage business details, receipts and taxPayments &amp; Linked AccountsView and manage payment types and linked accountsPayment TypesSet up and manage payment types and linked accountsReportsView business analyticsReportsOverviewSalesProductsStockFinancial StatementUsers and RolesAccess and manage users and users&quot; , &quot;'&quot; , &quot; rolesUser ManagementView and Manage UsersView and Manage RolesView and Manage EmployeesOnline StoreView and manage online store informationOnline StoreSetup and Manage Online Store&quot;) or . = concat(&quot;Manage StoreProduct CatalogueAccess and manage products, product categories and product combosProductsView, create, edit and delete products, product categories and product combosInventoryView and manage suppliers and inventory stockInventoryView and manage inventory, record stock take &amp; receive stockSuppliersView and manage suppliers, and manage supplier invoicesCustomersView and manage customersCustomersView, create, edit and delete customersManage customer store creditExpensesView and manage business expensesExpensesView, create, edit and delete expensesStore DetailsView and manage business information, tax information and customer receiptsBusiness DetailsManage business details, receipts and taxPayments &amp; Linked AccountsView and manage payment types and linked accountsPayment TypesSet up and manage payment types and linked accountsReportsView business analyticsReportsOverviewSalesProductsStockFinancial StatementUsers and RolesAccess and manage users and users&quot; , &quot;'&quot; , &quot; rolesUser ManagementView and Manage UsersView and Manage RolesView and Manage EmployeesOnline StoreView and manage online store informationOnline StoreSetup and Manage Online Store&quot;))]</value>
+      <webElementGuid>ba2a025f-9558-443d-8d22-c835ace725d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

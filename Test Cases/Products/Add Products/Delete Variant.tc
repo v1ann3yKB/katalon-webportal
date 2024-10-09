@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Delete Variant</description>
+   <name>Delete Variant</name>
+   <tag>variant</tag>
+   <comment></comment>
+   <testCaseGuid>64f9c5a6-2804-4ac7-9ea3-f03f5ea23944</testCaseGuid>
+</TestCaseEntity>

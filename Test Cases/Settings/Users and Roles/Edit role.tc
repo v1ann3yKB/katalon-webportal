@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This will cover other test cases as well
+- View Role Details
+- Select All Permissions in a Category 
+- Select Some Permissions in a Category 
+- Permissions (View): 
+# Till
+# Refunds and Voids
+# Transactions History
+# Batching
+# Orders
+# Product Catalogue
+# Inventory
+# Customers
+# Expenses
+# Report
+# Store Details
+# Users and Roles
+# Payments and Linked Accounts
+# Online Store</description>
+   <name>Edit role</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1f7f22d4-12c7-4117-b2ac-77e76d6e2dcb</testCaseGuid>
+</TestCaseEntity>

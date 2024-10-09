@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Capture Product Details</description>
+   <name>Capture Product Details</name>
+   <tag>productDetails</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d7a136b3-f5d4-47bb-a961-f033793d3aab</testCaseGuid>
+</TestCaseEntity>

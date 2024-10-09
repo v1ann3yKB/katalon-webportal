@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Expand navigation menu</description>
+   <name>Expand navigation menu</name>
+   <tag>navigationMenu</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>541edcf4-0fc3-42a0-a1e0-e8471f9fb5a4</testCaseGuid>
+</TestCaseEntity>

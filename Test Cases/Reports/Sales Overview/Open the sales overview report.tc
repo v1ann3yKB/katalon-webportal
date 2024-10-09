@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open the sales overview report</description>
+   <name>Open the sales overview report</name>
+   <tag>report</tag>
+   <comment></comment>
+   <testCaseGuid>8e6b685e-fe8b-479c-878f-2dd14d4d5d22</testCaseGuid>
+</TestCaseEntity>

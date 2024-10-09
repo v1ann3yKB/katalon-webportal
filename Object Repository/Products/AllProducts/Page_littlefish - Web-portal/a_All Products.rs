@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_All Products</name>
+   <tag></tag>
+   <elementGuidId>4d40a484-85f4-44b9-8928-95b5635ba26d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div[3]/div/ul/li[2]/ul/div/div/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.MuiListItem-root.MuiListItem-gutters.nav-link.css-1r2py49 > a.MuiButtonBase-root.MuiListItemButton-root.MuiListItemButton-gutters.MuiListItemButton-root.MuiListItemButton-gutters.css-dj5t28</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d4d0fb03-387a-4f64-956f-996cee472627</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters MuiListItemButton-root MuiListItemButton-gutters  css-dj5t28</value>
+      <webElementGuid>33328d87-3af7-40bc-8b40-0bdf358826aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>0aed7ec7-15b5-4fed-9d5c-d3967df56962</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/product/view-products/</value>
+      <webElementGuid>349cb6f8-75fe-4c81-8b71-dd09ac704543</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All Products</value>
+      <webElementGuid>4c50370e-2570-4aad-b792-d81bd78c63e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout-wrapper css-uinsfl&quot;]/div[@class=&quot;MuiDrawer-root MuiDrawer-docked layout-vertical-nav css-1yvzy6r&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiDrawer-paper MuiDrawer-paperAnchorLeft MuiDrawer-paperAnchorDockedLeft css-be33tq&quot;]/div[@class=&quot;MuiBox-root css-ohwg9z&quot;]/div[@class=&quot;scrollbar-container ps&quot;]/ul[@class=&quot;MuiList-root MuiList-padding nav-items css-1ta9ch5&quot;]/li[@class=&quot;MuiListItem-root MuiListItem-gutters nav-group css-1ufr3ic&quot;]/ul[@class=&quot;MuiCollapse-root MuiCollapse-vertical MuiCollapse-entered css-1xtc0b9&quot;]/div[@class=&quot;MuiCollapse-wrapper MuiCollapse-vertical css-hboir5&quot;]/div[@class=&quot;MuiCollapse-wrapperInner MuiCollapse-vertical css-8atqhb&quot;]/li[@class=&quot;MuiListItem-root MuiListItem-gutters nav-link css-1r2py49&quot;]/a[@class=&quot;MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters MuiListItemButton-root MuiListItemButton-gutters  css-dj5t28&quot;]</value>
+      <webElementGuid>37356567-ac7d-410d-af5c-f896a4af043f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[3]/div/ul/li[2]/ul/div/div/li/a</value>
+      <webElementGuid>3b56fd3a-2488-444e-b3cd-cff23690b5f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='littlefish'])[1]/following::a[2]</value>
+      <webElementGuid>6d9df244-d71b-4a31-b69c-ffad7aeaa137</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/product/view-products/')]</value>
+      <webElementGuid>1673ee00-f75d-4974-bced-2c6a4a2cc470</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/li/a</value>
+      <webElementGuid>738a77af-1945-4afc-8e59-bb56c7dacb02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/product/view-products/' and (text() = 'All Products' or . = 'All Products')]</value>
+      <webElementGuid>903a10ee-d8d3-4de9-8b25-aa6ad8d1dba3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

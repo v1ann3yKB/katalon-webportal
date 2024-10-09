@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Collapse navigation menu</description>
+   <name>Collapse navigation menu</name>
+   <tag>navigationMenu</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5c312942-2c4a-4b78-8b85-ee315c8ab0a0</testCaseGuid>
+</TestCaseEntity>

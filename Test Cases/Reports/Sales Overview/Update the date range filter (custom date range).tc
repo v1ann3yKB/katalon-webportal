@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Update the date range filter (custom date range)</description>
+   <name>Update the date range filter (custom date range)</name>
+   <tag>filter</tag>
+   <comment></comment>
+   <testCaseGuid>94a0bdac-7d18-4646-92f9-feb14da02053</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cancel Product Creation</description>
+   <name>Cancel Product Creation</name>
+   <tag>productCreation</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3f8c3f05-bec6-4d29-bac1-446b3075a6b2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Where are you locatedPlease add your ad_3a843e</name>
+   <tag></tag>
+   <elementGuidId>ce62e361-4387-40e5-ab36-cb6d4e5022c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0458c63a-9b10-4ffa-afe0-d6ff2a52239c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-mt4xnw</value>
+      <webElementGuid>1679f016-26f3-407a-bc23-f6dd89cfc3e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Where are you located?Please add your address below.Add a location​Add a locationPowered byStreet Address Line 01 *Street Address Line 01 *Street Address Line 02Street Address Line 02Suburb *Suburb *City *City *Province *Province *Postal Code *Postal Code *</value>
+      <webElementGuid>0c5fa041-8f70-4aed-a040-37131201c0e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout-wrapper css-uinsfl&quot;]/div[@class=&quot;layout-content-wrapper MuiBox-root css-34b9xr&quot;]/main[@class=&quot;layout-page-content css-zyg32b&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-6 css-h2qpui&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-15j76c0&quot;]/div[@class=&quot;MuiBox-root css-mt4xnw&quot;]</value>
+      <webElementGuid>0f37f958-b9c1-4830-9c55-1b0f5efd263f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[4]/div</value>
+      <webElementGuid>7fe8bf74-0914-4ae6-8d8c-be1c980655f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div</value>
+      <webElementGuid>3e253792-6655-4f49-9bb1-92f8140da019</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Where are you located?Please add your address below.Add a location​Add a locationPowered byStreet Address Line 01 *Street Address Line 01 *Street Address Line 02Street Address Line 02Suburb *Suburb *City *City *Province *Province *Postal Code *Postal Code *' or . = 'Where are you located?Please add your address below.Add a location​Add a locationPowered byStreet Address Line 01 *Street Address Line 01 *Street Address Line 02Street Address Line 02Suburb *Suburb *City *City *Province *Province *Postal Code *Postal Code *')]</value>
+      <webElementGuid>bb7e725f-8096-4dc4-845e-70c9c23ab167</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

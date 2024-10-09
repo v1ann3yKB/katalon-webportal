@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search Products</description>
+   <name>Search Products</name>
+   <tag>search</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b0b5baeb-da6d-49af-90d9-9e9f64607be7</testCaseGuid>
+</TestCaseEntity>

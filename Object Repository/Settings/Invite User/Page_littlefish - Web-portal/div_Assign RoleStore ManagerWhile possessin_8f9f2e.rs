@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Assign RoleStore ManagerWhile possessin_8f9f2e</name>
+   <tag></tag>
+   <elementGuidId>1dc2937e-fa50-4673-ac12-4f797a6e6562</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e8e7055c-7220-44fd-8df4-c62a7495e91d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-mt4xnw</value>
+      <webElementGuid>da38d627-7495-4f95-8df9-a69f013c792a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Assign RoleStore ManagerWhile possessing operational capabilities, it lacks the authority to fashion custom roles or appoint users with Administrative privileges. Moreover, individuals assigned to this role are restricted from executing certain actions deemed sensitive, including access to Financial Reports, Manage Store Details, Payment &amp; Linked Accounts, and Tax Settings.SupervisorThis role manages Sales &amp; Refunds, including tills, refunds &amp; voids, transaction history, batching, and orders. Additionally, it oversees Store Management, generating reports on sales, products, and stock levels.CashierThis cashier role handles various aspects of sales transactions efficiently. They can add items, apply discounts, add tips or cashback, and process split payments. Additionally, they manage parked carts, conduct withdrawals, and utilize barcode scanning for swift processing, ensuring smooth operations and customer satisfaction.AdministratorHolds the highest rank within the system, granting full control and access to operations. This user is exclusively authorized to create custom roles and designate users with Administrative privileges. This ensures that only trusted individuals possess significant system control, maintaining security and efficiency.Test RoleTesting againTest 2 RoleTeater ib ngfjd etrd hrtj Test Role 3Test testTest Role updateTesting againTest Role updatedTesting againStore ManagerWhile possessing operational capabilities, it lacks the authority to fashion custom roles or appoint users with Administrative privileges. Moreover, individuals assigned to this role are restricted from executing certain actions deemed sensitive, including access to Financial Reports, Manage Store Details, Payment &amp; Linked Accounts, and Tax Settings.New DescriptionsTesting new descriptions and UpdateNew RoleTesting new descriptionsNew Rolethis is for testing purpose onlyA user who can test on the portalDevelopersThis is a dev roleDevelopersThis is a dev roleCreate New Role</value>
+      <webElementGuid>96c53383-245a-4cd3-8e58-996e8ec92de0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout-wrapper css-uinsfl&quot;]/div[@class=&quot;layout-content-wrapper MuiBox-root css-34b9xr&quot;]/main[@class=&quot;layout-page-content css-zyg32b&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-6 css-h2qpui&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-15j76c0&quot;]/div[@class=&quot;MuiBox-root css-mt4xnw&quot;]</value>
+      <webElementGuid>76e716aa-6d06-4c2b-9f16-df45ae8592a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[4]/div</value>
+      <webElementGuid>724d5e67-a676-49d4-9a37-47a49dcb2ecd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div</value>
+      <webElementGuid>0cd66150-1511-4b49-90b7-c8fa691a6ca8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Assign RoleStore ManagerWhile possessing operational capabilities, it lacks the authority to fashion custom roles or appoint users with Administrative privileges. Moreover, individuals assigned to this role are restricted from executing certain actions deemed sensitive, including access to Financial Reports, Manage Store Details, Payment &amp; Linked Accounts, and Tax Settings.SupervisorThis role manages Sales &amp; Refunds, including tills, refunds &amp; voids, transaction history, batching, and orders. Additionally, it oversees Store Management, generating reports on sales, products, and stock levels.CashierThis cashier role handles various aspects of sales transactions efficiently. They can add items, apply discounts, add tips or cashback, and process split payments. Additionally, they manage parked carts, conduct withdrawals, and utilize barcode scanning for swift processing, ensuring smooth operations and customer satisfaction.AdministratorHolds the highest rank within the system, granting full control and access to operations. This user is exclusively authorized to create custom roles and designate users with Administrative privileges. This ensures that only trusted individuals possess significant system control, maintaining security and efficiency.Test RoleTesting againTest 2 RoleTeater ib ngfjd etrd hrtj Test Role 3Test testTest Role updateTesting againTest Role updatedTesting againStore ManagerWhile possessing operational capabilities, it lacks the authority to fashion custom roles or appoint users with Administrative privileges. Moreover, individuals assigned to this role are restricted from executing certain actions deemed sensitive, including access to Financial Reports, Manage Store Details, Payment &amp; Linked Accounts, and Tax Settings.New DescriptionsTesting new descriptions and UpdateNew RoleTesting new descriptionsNew Rolethis is for testing purpose onlyA user who can test on the portalDevelopersThis is a dev roleDevelopersThis is a dev roleCreate New Role' or . = 'Assign RoleStore ManagerWhile possessing operational capabilities, it lacks the authority to fashion custom roles or appoint users with Administrative privileges. Moreover, individuals assigned to this role are restricted from executing certain actions deemed sensitive, including access to Financial Reports, Manage Store Details, Payment &amp; Linked Accounts, and Tax Settings.SupervisorThis role manages Sales &amp; Refunds, including tills, refunds &amp; voids, transaction history, batching, and orders. Additionally, it oversees Store Management, generating reports on sales, products, and stock levels.CashierThis cashier role handles various aspects of sales transactions efficiently. They can add items, apply discounts, add tips or cashback, and process split payments. Additionally, they manage parked carts, conduct withdrawals, and utilize barcode scanning for swift processing, ensuring smooth operations and customer satisfaction.AdministratorHolds the highest rank within the system, granting full control and access to operations. This user is exclusively authorized to create custom roles and designate users with Administrative privileges. This ensures that only trusted individuals possess significant system control, maintaining security and efficiency.Test RoleTesting againTest 2 RoleTeater ib ngfjd etrd hrtj Test Role 3Test testTest Role updateTesting againTest Role updatedTesting againStore ManagerWhile possessing operational capabilities, it lacks the authority to fashion custom roles or appoint users with Administrative privileges. Moreover, individuals assigned to this role are restricted from executing certain actions deemed sensitive, including access to Financial Reports, Manage Store Details, Payment &amp; Linked Accounts, and Tax Settings.New DescriptionsTesting new descriptions and UpdateNew RoleTesting new descriptionsNew Rolethis is for testing purpose onlyA user who can test on the portalDevelopersThis is a dev roleDevelopersThis is a dev roleCreate New Role')]</value>
+      <webElementGuid>ad4a5ed6-34bb-491b-bc8f-44f8a7dbe6d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

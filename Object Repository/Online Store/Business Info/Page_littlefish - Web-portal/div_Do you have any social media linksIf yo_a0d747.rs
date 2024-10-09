@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Do you have any social media linksIf yo_a0d747</name>
+   <tag></tag>
+   <elementGuidId>a22a155e-2059-41f7-b21a-abb7977b3112</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div[5]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6b0d1799-4680-4933-af07-b14ebe47604f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-mt4xnw</value>
+      <webElementGuid>bae67ec6-0dde-4fcb-b19c-9467971c9fa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Do you have any social media links?If your business has any social media profiles, please add links to make it easy for people to find you.FacebookFacebookInstagramInstagramTwitterTwitterLinkedInLinkedInWhatsAppWhatsAppWebsiteWebsite</value>
+      <webElementGuid>d0770402-5f91-46df-9883-07c6c4445d45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout-wrapper css-uinsfl&quot;]/div[@class=&quot;layout-content-wrapper MuiBox-root css-34b9xr&quot;]/main[@class=&quot;layout-page-content css-zyg32b&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-6 css-h2qpui&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-15j76c0&quot;]/div[@class=&quot;MuiBox-root css-mt4xnw&quot;]</value>
+      <webElementGuid>46f63efa-5b43-4493-85a0-4fc67a4682ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[5]/div</value>
+      <webElementGuid>b12cb87d-414d-4d2f-bdaf-2b435e23550f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div</value>
+      <webElementGuid>353e9a5e-3b6b-4ac3-837d-36fe566da1bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Do you have any social media links?If your business has any social media profiles, please add links to make it easy for people to find you.FacebookFacebookInstagramInstagramTwitterTwitterLinkedInLinkedInWhatsAppWhatsAppWebsiteWebsite' or . = 'Do you have any social media links?If your business has any social media profiles, please add links to make it easy for people to find you.FacebookFacebookInstagramInstagramTwitterTwitterLinkedInLinkedInWhatsAppWhatsAppWebsiteWebsite')]</value>
+      <webElementGuid>8e685250-47ba-4ca3-8929-746294d79455</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

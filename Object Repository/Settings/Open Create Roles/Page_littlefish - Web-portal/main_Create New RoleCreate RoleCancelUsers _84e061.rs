@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>main_Create New RoleCreate RoleCancelUsers _84e061</name>
+   <tag></tag>
+   <elementGuidId>6305786c-368d-41cf-aded-27df4aaf7045</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>main.layout-page-content.css-zyg32b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>main</value>
+      <webElementGuid>2461633d-7bd1-4749-bcb2-7191eedced63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>layout-page-content css-zyg32b</value>
+      <webElementGuid>0d53cbad-1fed-4239-b68c-a278e5bac4ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create New RoleCreate RoleCancelUsers and Roles/Manage Roles/Create New RoleRole DetailsRole name *Role name *Role description *Role description *Sales and RefundsTillManage permissions for the tillSalesAdd Quick Item to SaleMake Quick Amount SaleDiscard BasketApply Discount to SalesApply Discount to CartApply Discount to ProductTipsAdd Tip to SaleCashbackAdd Cashback to SaleWithdrawalsMake Withdrawal SaleSplit PaymentsAllow Split PaymentsParked CartsDelete a Parked CartPark and Retrieve CartBarcode ScanningScan BarcodeRefunds and VoidsIssue refunds and void salesRefundsIssue a Quick RefundMake an Item RefundVoid SaleVoid a SaleTransaction HistoryView and manage transaction historyTransaction HistoryView Transaction HistoryBatchingClose and reprint batchesBatchingClose BatchReprint BatchOrdersManage and fulfill ordersOrdersView and process orders submitted from the online storeManage StoreProduct CatalogueAccess and manage products, product categories and product combosProductsView, create, edit and delete products, product categories and product combosInventoryView and manage suppliers and inventory stockInventoryView and manage inventory, record stock take &amp; receive stockSuppliersView and manage suppliers, and manage supplier invoicesCustomersView and manage customersCustomersView, create, edit and delete customersManage customer store creditExpensesView and manage business expensesExpensesView, create, edit and delete expensesStore DetailsView and manage business information, tax information and customer receiptsBusiness DetailsManage business details, receipts and taxPayments &amp; Linked AccountsView and manage payment types and linked accountsPayment TypesSet up and manage payment types and linked accountsReportsView business analyticsReportsOverviewSalesProductsStockFinancial StatementUsers and RolesAccess and manage users and users' rolesUser ManagementView and Manage UsersView and Manage RolesView and Manage EmployeesOnline StoreView and manage online store informationOnline StoreSetup and Manage Online Store</value>
+      <webElementGuid>00b1d948-881b-4495-a0a9-ee8ea728809a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout-wrapper css-uinsfl&quot;]/div[@class=&quot;layout-content-wrapper MuiBox-root css-34b9xr&quot;]/main[@class=&quot;layout-page-content css-zyg32b&quot;]</value>
+      <webElementGuid>332d8dad-0ccb-48de-a540-d7c448485acf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main</value>
+      <webElementGuid>14f65c9a-188e-46aa-b7ef-93fbb3664420</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administrator'])[1]/following::main[1]</value>
+      <webElementGuid>9fe1351e-989c-4505-bd70-16c98a8f6587</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='littlefish'])[1]/following::main[1]</value>
+      <webElementGuid>27b1dfe2-d113-4196-bd93-cd4059e8ad43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main</value>
+      <webElementGuid>58f1bf42-6056-477b-a3e3-760b1d4cf0f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//main[(text() = concat(&quot;Create New RoleCreate RoleCancelUsers and Roles/Manage Roles/Create New RoleRole DetailsRole name *Role name *Role description *Role description *Sales and RefundsTillManage permissions for the tillSalesAdd Quick Item to SaleMake Quick Amount SaleDiscard BasketApply Discount to SalesApply Discount to CartApply Discount to ProductTipsAdd Tip to SaleCashbackAdd Cashback to SaleWithdrawalsMake Withdrawal SaleSplit PaymentsAllow Split PaymentsParked CartsDelete a Parked CartPark and Retrieve CartBarcode ScanningScan BarcodeRefunds and VoidsIssue refunds and void salesRefundsIssue a Quick RefundMake an Item RefundVoid SaleVoid a SaleTransaction HistoryView and manage transaction historyTransaction HistoryView Transaction HistoryBatchingClose and reprint batchesBatchingClose BatchReprint BatchOrdersManage and fulfill ordersOrdersView and process orders submitted from the online storeManage StoreProduct CatalogueAccess and manage products, product categories and product combosProductsView, create, edit and delete products, product categories and product combosInventoryView and manage suppliers and inventory stockInventoryView and manage inventory, record stock take &amp; receive stockSuppliersView and manage suppliers, and manage supplier invoicesCustomersView and manage customersCustomersView, create, edit and delete customersManage customer store creditExpensesView and manage business expensesExpensesView, create, edit and delete expensesStore DetailsView and manage business information, tax information and customer receiptsBusiness DetailsManage business details, receipts and taxPayments &amp; Linked AccountsView and manage payment types and linked accountsPayment TypesSet up and manage payment types and linked accountsReportsView business analyticsReportsOverviewSalesProductsStockFinancial StatementUsers and RolesAccess and manage users and users&quot; , &quot;'&quot; , &quot; rolesUser ManagementView and Manage UsersView and Manage RolesView and Manage EmployeesOnline StoreView and manage online store informationOnline StoreSetup and Manage Online Store&quot;) or . = concat(&quot;Create New RoleCreate RoleCancelUsers and Roles/Manage Roles/Create New RoleRole DetailsRole name *Role name *Role description *Role description *Sales and RefundsTillManage permissions for the tillSalesAdd Quick Item to SaleMake Quick Amount SaleDiscard BasketApply Discount to SalesApply Discount to CartApply Discount to ProductTipsAdd Tip to SaleCashbackAdd Cashback to SaleWithdrawalsMake Withdrawal SaleSplit PaymentsAllow Split PaymentsParked CartsDelete a Parked CartPark and Retrieve CartBarcode ScanningScan BarcodeRefunds and VoidsIssue refunds and void salesRefundsIssue a Quick RefundMake an Item RefundVoid SaleVoid a SaleTransaction HistoryView and manage transaction historyTransaction HistoryView Transaction HistoryBatchingClose and reprint batchesBatchingClose BatchReprint BatchOrdersManage and fulfill ordersOrdersView and process orders submitted from the online storeManage StoreProduct CatalogueAccess and manage products, product categories and product combosProductsView, create, edit and delete products, product categories and product combosInventoryView and manage suppliers and inventory stockInventoryView and manage inventory, record stock take &amp; receive stockSuppliersView and manage suppliers, and manage supplier invoicesCustomersView and manage customersCustomersView, create, edit and delete customersManage customer store creditExpensesView and manage business expensesExpensesView, create, edit and delete expensesStore DetailsView and manage business information, tax information and customer receiptsBusiness DetailsManage business details, receipts and taxPayments &amp; Linked AccountsView and manage payment types and linked accountsPayment TypesSet up and manage payment types and linked accountsReportsView business analyticsReportsOverviewSalesProductsStockFinancial StatementUsers and RolesAccess and manage users and users&quot; , &quot;'&quot; , &quot; rolesUser ManagementView and Manage UsersView and Manage RolesView and Manage EmployeesOnline StoreView and manage online store informationOnline StoreSetup and Manage Online Store&quot;))]</value>
+      <webElementGuid>2a366064-aeb5-49b2-8e25-475e4d33b3c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

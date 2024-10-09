@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Save Product</description>
+   <name>Save Product - Copy</name>
+   <tag>product</tag>
+   <comment></comment>
+   <testCaseGuid>e79554b4-b7d8-4486-b393-891807eeae05</testCaseGuid>
+</TestCaseEntity>

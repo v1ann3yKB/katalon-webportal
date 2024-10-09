@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>form_Selling Price per ItemRSelling Price p_8be390</name>
+   <tag></tag>
+   <elementGuidId>05128e11-131d-4bd4-b9c9-b58df0e39b3c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div[5]/div/form</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>form</value>
+      <webElementGuid>d2f225e3-8833-451f-bf0e-8956d9d90d1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>fa086224-bdc9-482d-b809-818a21cc5d3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selling Price per Item​RSelling Price per ItemCost Price per Item​RCost Price per ItemMargin0.00%Profit per ItemR0.00</value>
+      <webElementGuid>ea7f3b51-6387-4858-8ef1-03fdd239d1a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout-wrapper css-uinsfl&quot;]/div[@class=&quot;layout-content-wrapper MuiBox-root css-34b9xr&quot;]/main[@class=&quot;layout-page-content css-zyg32b&quot;]/div[@class=&quot;MuiBox-root css-p0ldcf&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/form[1]</value>
+      <webElementGuid>dbc9aaf9-5fe5-4efc-b38a-d7ae960bcd23</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div[5]/div/form</value>
+      <webElementGuid>58b0ac66-2670-4384-959e-3f43b757665b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Online'])[1]/following::form[1]</value>
+      <webElementGuid>5ca67ef1-6abe-4b2f-b2ea-502ef95c6e35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In Store'])[1]/following::form[1]</value>
+      <webElementGuid>456c3f72-d17f-41f9-be07-2befa80d22e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/form</value>
+      <webElementGuid>0f101f0f-f80a-4cb8-8ea9-a46a628d581a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//form[(text() = 'Selling Price per Item​RSelling Price per ItemCost Price per Item​RCost Price per ItemMargin0.00%Profit per ItemR0.00' or . = 'Selling Price per Item​RSelling Price per ItemCost Price per Item​RCost Price per ItemMargin0.00%Profit per ItemR0.00')]</value>
+      <webElementGuid>e6c01ada-4422-4a14-a298-11fc70ffe598</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

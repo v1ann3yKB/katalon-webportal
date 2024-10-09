@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Capture Product Options</description>
+   <name>Capture Product Options - Copy</name>
+   <tag>productOptions</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6f8a0ded-a381-4edf-b896-1cf9143407b7</testCaseGuid>
+</TestCaseEntity>

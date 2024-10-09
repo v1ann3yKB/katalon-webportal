@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Access the user profile page</description>
+   <name>Access the user profile page</name>
+   <tag>userProfile</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>38e79a07-6b61-4cb5-b928-34650330fc74</testCaseGuid>
+</TestCaseEntity>

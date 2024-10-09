@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sales and RefundsTillManage permissions_5ddaea</name>
+   <tag></tag>
+   <elementGuidId>e1422325-de32-452c-a9f2-27ffc669ad8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0f5a5d32-7cb4-4070-bebe-e1a300076148</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-mt4xnw</value>
+      <webElementGuid>ecaf3bee-381e-4cc3-9ff2-2109f500c5a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sales and RefundsTillManage permissions for the tillSalesAdd Quick Item to SaleMake Quick Amount SaleDiscard BasketApply Discount to SalesApply Discount to CartApply Discount to ProductTipsAdd Tip to SaleCashbackAdd Cashback to SaleWithdrawalsMake Withdrawal SaleSplit PaymentsAllow Split PaymentsParked CartsDelete a Parked CartPark and Retrieve CartBarcode ScanningScan BarcodeRefunds and VoidsIssue refunds and void salesRefundsIssue a Quick RefundMake an Item RefundVoid SaleVoid a SaleTransaction HistoryView and manage transaction historyTransaction HistoryView Transaction HistoryBatchingClose and reprint batchesBatchingClose BatchReprint BatchOrdersManage and fulfill ordersOrdersView and process orders submitted from the online store</value>
+      <webElementGuid>5bc5b6bc-e017-4b57-8839-eab41dd840c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout-wrapper css-uinsfl&quot;]/div[@class=&quot;layout-content-wrapper MuiBox-root css-34b9xr&quot;]/main[@class=&quot;layout-page-content css-zyg32b&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-6 css-h2qpui&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-15j76c0&quot;]/div[@class=&quot;MuiBox-root css-mt4xnw&quot;]</value>
+      <webElementGuid>2844b0b2-cee3-424c-b6dc-4047b0e42c33</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[3]/div</value>
+      <webElementGuid>e158d41a-235d-4013-be95-89cb736bf67a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This is a dev role'])[1]/following::div[2]</value>
+      <webElementGuid>95f550c5-e6e9-402b-9ced-4441e077592a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div[3]/div</value>
+      <webElementGuid>0079d171-d9cc-42fd-b6fd-a51dabf26c84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sales and RefundsTillManage permissions for the tillSalesAdd Quick Item to SaleMake Quick Amount SaleDiscard BasketApply Discount to SalesApply Discount to CartApply Discount to ProductTipsAdd Tip to SaleCashbackAdd Cashback to SaleWithdrawalsMake Withdrawal SaleSplit PaymentsAllow Split PaymentsParked CartsDelete a Parked CartPark and Retrieve CartBarcode ScanningScan BarcodeRefunds and VoidsIssue refunds and void salesRefundsIssue a Quick RefundMake an Item RefundVoid SaleVoid a SaleTransaction HistoryView and manage transaction historyTransaction HistoryView Transaction HistoryBatchingClose and reprint batchesBatchingClose BatchReprint BatchOrdersManage and fulfill ordersOrdersView and process orders submitted from the online store' or . = 'Sales and RefundsTillManage permissions for the tillSalesAdd Quick Item to SaleMake Quick Amount SaleDiscard BasketApply Discount to SalesApply Discount to CartApply Discount to ProductTipsAdd Tip to SaleCashbackAdd Cashback to SaleWithdrawalsMake Withdrawal SaleSplit PaymentsAllow Split PaymentsParked CartsDelete a Parked CartPark and Retrieve CartBarcode ScanningScan BarcodeRefunds and VoidsIssue refunds and void salesRefundsIssue a Quick RefundMake an Item RefundVoid SaleVoid a SaleTransaction HistoryView and manage transaction historyTransaction HistoryView Transaction HistoryBatchingClose and reprint batchesBatchingClose BatchReprint BatchOrdersManage and fulfill ordersOrdersView and process orders submitted from the online store')]</value>
+      <webElementGuid>3b012735-6b44-459a-8f3a-7f61bb143ed8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

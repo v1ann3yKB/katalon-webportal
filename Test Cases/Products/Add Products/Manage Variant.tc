@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Manage Variant</description>
+   <name>Manage Variant</name>
+   <tag>variant</tag>
+   <comment></comment>
+   <testCaseGuid>ff7a1831-2390-4a95-9364-97f7f153c740</testCaseGuid>
+</TestCaseEntity>

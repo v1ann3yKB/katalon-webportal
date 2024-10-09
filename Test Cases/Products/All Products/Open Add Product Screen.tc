@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open the Add Product Screen</description>
+   <name>Open Add Product Screen</name>
+   <tag>productScreen</tag>
+   <comment></comment>
+   <testCaseGuid>cd963b0d-872f-41cf-88c8-fd80153e4e56</testCaseGuid>
+</TestCaseEntity>

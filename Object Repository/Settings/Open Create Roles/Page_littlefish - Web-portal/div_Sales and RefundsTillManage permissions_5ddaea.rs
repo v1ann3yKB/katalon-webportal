@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sales and RefundsTillManage permissions_5ddaea</name>
+   <tag></tag>
+   <elementGuidId>3207db98-c98d-4237-8b6c-c5a5ad7d1541</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>69319b05-9256-4f38-aa61-57ad0d187330</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-15j76c0</value>
+      <webElementGuid>1664c491-c396-4688-8a78-74ccbaa926be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sales and RefundsTillManage permissions for the tillSalesAdd Quick Item to SaleMake Quick Amount SaleDiscard BasketApply Discount to SalesApply Discount to CartApply Discount to ProductTipsAdd Tip to SaleCashbackAdd Cashback to SaleWithdrawalsMake Withdrawal SaleSplit PaymentsAllow Split PaymentsParked CartsDelete a Parked CartPark and Retrieve CartBarcode ScanningScan BarcodeRefunds and VoidsIssue refunds and void salesRefundsIssue a Quick RefundMake an Item RefundVoid SaleVoid a SaleTransaction HistoryView and manage transaction historyTransaction HistoryView Transaction HistoryBatchingClose and reprint batchesBatchingClose BatchReprint BatchOrdersManage and fulfill ordersOrdersView and process orders submitted from the online store</value>
+      <webElementGuid>cd087478-a178-4638-9a3f-b7b8994b68d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout-wrapper css-uinsfl&quot;]/div[@class=&quot;layout-content-wrapper MuiBox-root css-34b9xr&quot;]/main[@class=&quot;layout-page-content css-zyg32b&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-6 css-h2qpui&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-15j76c0&quot;]</value>
+      <webElementGuid>152f29a9-4ed9-4ca3-9651-3d0bbf4b5b92</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[3]</value>
+      <webElementGuid>9e57a34b-f769-4bce-923d-6d1ce063ee21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div[3]</value>
+      <webElementGuid>ea7ff058-da00-43b7-b62b-40e7a8674c28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sales and RefundsTillManage permissions for the tillSalesAdd Quick Item to SaleMake Quick Amount SaleDiscard BasketApply Discount to SalesApply Discount to CartApply Discount to ProductTipsAdd Tip to SaleCashbackAdd Cashback to SaleWithdrawalsMake Withdrawal SaleSplit PaymentsAllow Split PaymentsParked CartsDelete a Parked CartPark and Retrieve CartBarcode ScanningScan BarcodeRefunds and VoidsIssue refunds and void salesRefundsIssue a Quick RefundMake an Item RefundVoid SaleVoid a SaleTransaction HistoryView and manage transaction historyTransaction HistoryView Transaction HistoryBatchingClose and reprint batchesBatchingClose BatchReprint BatchOrdersManage and fulfill ordersOrdersView and process orders submitted from the online store' or . = 'Sales and RefundsTillManage permissions for the tillSalesAdd Quick Item to SaleMake Quick Amount SaleDiscard BasketApply Discount to SalesApply Discount to CartApply Discount to ProductTipsAdd Tip to SaleCashbackAdd Cashback to SaleWithdrawalsMake Withdrawal SaleSplit PaymentsAllow Split PaymentsParked CartsDelete a Parked CartPark and Retrieve CartBarcode ScanningScan BarcodeRefunds and VoidsIssue refunds and void salesRefundsIssue a Quick RefundMake an Item RefundVoid SaleVoid a SaleTransaction HistoryView and manage transaction historyTransaction HistoryView Transaction HistoryBatchingClose and reprint batchesBatchingClose BatchReprint BatchOrdersManage and fulfill ordersOrdersView and process orders submitted from the online store')]</value>
+      <webElementGuid>373afe55-450a-4b68-97ae-5caae1285201</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Accessing/Opening the web portal on any browser</description>
+   <name>Open Web Portal</name>
+   <tag>Access</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a151816f-04ff-477d-98f2-91181525451e</testCaseGuid>
+</TestCaseEntity>

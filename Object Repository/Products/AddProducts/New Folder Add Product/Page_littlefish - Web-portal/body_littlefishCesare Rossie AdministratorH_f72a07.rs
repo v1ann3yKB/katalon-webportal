@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body_littlefishCesare Rossie AdministratorH_f72a07</name>
+   <tag></tag>
+   <elementGuidId>e0f757df-013e-42be-9d0d-37edf1dd7048</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>body</value>
+      <webElementGuid>bdd9c577-45a6-441c-98ab-89bc37a10903</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>littlefishCesare Rossie AdministratorHomeProductsAll ProductsAdd New ProductsReportsSales OverviewSettingsUsers &amp; RolesAdd ProductAdd ProductCancelProducts/Add New ProductImagesAdd ImageDetailsNameNameCategory ​CategoryTagsTagsDescriptionDescription                                        ChannelsSelect Sales ChannelsChoose platforms where your product will be sold.In StoreOnlinePriceSelling Price per Item​RSelling Price per ItemCost Price per Item​RCost Price per ItemMargin0.00%Profit per ItemR0.00Stock DetailsTrack stock for this productAutogenerate SKUSKUSKUProduct OptionsRemoving/Adding of a new product option will reset all values.​AddRemoveManage VariantThe below information is used for managing the product variants.Manage variantManage inventory for variants{&quot;props&quot;:{&quot;pageProps&quot;:{}},&quot;page&quot;:&quot;/&quot;,&quot;query&quot;:{},&quot;buildId&quot;:&quot;ZR1aGfDLBwLKyLZbAA-81&quot;,&quot;nextExport&quot;:true,&quot;autoExport&quot;:true,&quot;isFallback&quot;:false,&quot;scriptLoader&quot;:[]}littlefish - Web-portalid(&quot;menu-category&quot;)/div[@class=&quot;MuiBackdrop-root MuiBackdrop-invisible MuiModal-backdrop css-18hd20a&quot;]ExtrasDevices</value>
+      <webElementGuid>b49f9dde-61bb-4b8c-9cb8-4e5fa6050220</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[1]</value>
+      <webElementGuid>719dd44c-875f-4f56-b450-27c60e9c0665</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body</value>
+      <webElementGuid>4d95f296-c306-4e91-a715-3a8e971caedd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//body[(text() = 'littlefishCesare Rossie AdministratorHomeProductsAll ProductsAdd New ProductsReportsSales OverviewSettingsUsers &amp; RolesAdd ProductAdd ProductCancelProducts/Add New ProductImagesAdd ImageDetailsNameNameCategory ​CategoryTagsTagsDescriptionDescription                                        ChannelsSelect Sales ChannelsChoose platforms where your product will be sold.In StoreOnlinePriceSelling Price per Item​RSelling Price per ItemCost Price per Item​RCost Price per ItemMargin0.00%Profit per ItemR0.00Stock DetailsTrack stock for this productAutogenerate SKUSKUSKUProduct OptionsRemoving/Adding of a new product option will reset all values.​AddRemoveManage VariantThe below information is used for managing the product variants.Manage variantManage inventory for variants{&quot;props&quot;:{&quot;pageProps&quot;:{}},&quot;page&quot;:&quot;/&quot;,&quot;query&quot;:{},&quot;buildId&quot;:&quot;ZR1aGfDLBwLKyLZbAA-81&quot;,&quot;nextExport&quot;:true,&quot;autoExport&quot;:true,&quot;isFallback&quot;:false,&quot;scriptLoader&quot;:[]}littlefish - Web-portalid(&quot;menu-category&quot;)/div[@class=&quot;MuiBackdrop-root MuiBackdrop-invisible MuiModal-backdrop css-18hd20a&quot;]ExtrasDevices' or . = 'littlefishCesare Rossie AdministratorHomeProductsAll ProductsAdd New ProductsReportsSales OverviewSettingsUsers &amp; RolesAdd ProductAdd ProductCancelProducts/Add New ProductImagesAdd ImageDetailsNameNameCategory ​CategoryTagsTagsDescriptionDescription                                        ChannelsSelect Sales ChannelsChoose platforms where your product will be sold.In StoreOnlinePriceSelling Price per Item​RSelling Price per ItemCost Price per Item​RCost Price per ItemMargin0.00%Profit per ItemR0.00Stock DetailsTrack stock for this productAutogenerate SKUSKUSKUProduct OptionsRemoving/Adding of a new product option will reset all values.​AddRemoveManage VariantThe below information is used for managing the product variants.Manage variantManage inventory for variants{&quot;props&quot;:{&quot;pageProps&quot;:{}},&quot;page&quot;:&quot;/&quot;,&quot;query&quot;:{},&quot;buildId&quot;:&quot;ZR1aGfDLBwLKyLZbAA-81&quot;,&quot;nextExport&quot;:true,&quot;autoExport&quot;:true,&quot;isFallback&quot;:false,&quot;scriptLoader&quot;:[]}littlefish - Web-portalid(&quot;menu-category&quot;)/div[@class=&quot;MuiBackdrop-root MuiBackdrop-invisible MuiModal-backdrop css-18hd20a&quot;]ExtrasDevices')]</value>
+      <webElementGuid>66d139e1-82c8-44c0-bb34-edfacff2c8a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
