@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>File_Upload</name>
+   <tag></tag>
+   <elementGuidId>32f6a9fe-07f3-48d1-ae12-e2b34f8c6347</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'file-input-0']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>file-input-0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>file-input-0</value>
+      <webElementGuid>fddec963-221b-4d90-90d4-1428cfbdf614</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Selling/Test for file Upload/Page_littlefish - Web-portal/div_Upload Category Banner</value>
+      <webElementGuid>ad6df321-f87c-438c-b6dd-75c7fba8831b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
