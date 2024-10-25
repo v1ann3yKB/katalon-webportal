@@ -1,3 +1,184 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Home/Page_littlefish - Web-portal/New Folder/Page_littlefish - Web-portal/path",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "div \u003e\u003e internal:has-text\u003d/^Password$/ \u003e\u003e internal:role\u003dbutton",
+      "proposedLocatorMethod": "SMART_LOCATOR",
+      "recoveryMethod": "SMART_LOCATOR",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Home/Page_littlefish - Web-portal/New Folder/Page_littlefish - Web-portal/path_SMART_LOCATOR.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Home/Page_littlefish - Web-portal/New Folder/Page_littlefish - Web-portal/button_Received",
+      "brokenLocator": "//button[@id\u003d\u0027mui-p-22335-T-0\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027__next\u0027]/div/div[2]/main/div/div[2]/div/div/div[2]/div/button[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Home/Page_littlefish - Web-portal/New Folder/Page_littlefish - Web-portal/button_Received_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Home/Page_littlefish - Web-portal/New Folder/Page_littlefish - Web-portal/button_Processing",
+      "brokenLocator": "//button[@id\u003d\u0027mui-p-22335-T-1\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027__next\u0027]/div/div[2]/main/div/div[2]/div/div/div[2]/div/button[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Home/Page_littlefish - Web-portal/New Folder/Page_littlefish - Web-portal/button_Processing_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Home/Page_littlefish - Web-portal/New Folder/Page_littlefish - Web-portal/button_All",
+      "brokenLocator": "//button[@id\u003d\u0027mui-p-22335-T-All\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027__next\u0027]/div/div[2]/main/div/div[2]/div/div/div[2]/div/button",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Home/Page_littlefish - Web-portal/New Folder/Page_littlefish - Web-portal/button_All_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Home/Page_littlefish - Web-portal/New Folder/Page_littlefish - Web-portal/button_Complete",
+      "brokenLocator": "//button[@id\u003d\u0027mui-p-22335-T-3\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027__next\u0027]/div/div[2]/main/div/div[2]/div/div/div[2]/div/button[5]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Home/Page_littlefish - Web-portal/New Folder/Page_littlefish - Web-portal/button_Complete_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Home/Page_littlefish - Web-portal/New Folder/Page_littlefish - Web-portal/button_Cancelled",
+      "brokenLocator": "//button[@id\u003d\u0027mui-p-22335-T-5\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027__next\u0027]/div/div[2]/main/div/div[2]/div/div/div[2]/div/button[7]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Home/Page_littlefish - Web-portal/New Folder/Page_littlefish - Web-portal/button_Cancelled_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Home/Page_littlefish - Web-portal/New Folder/Page_littlefish - Web-portal/input_Category Name_categoryName",
+      "brokenLocator": "//input[@id\u003d\u0027:r5r:\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027__next\u0027]/div/div[2]/main/div/div[2]/div/div/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Home/Page_littlefish - Web-portal/New Folder/Page_littlefish - Web-portal/input_Category Name_categoryName_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Home/Page_littlefish - Web-portal/New Folder/Page_littlefish - Web-portal/textarea_J",
+      "brokenLocator": "//textarea[@id\u003d\u0027:r5s:\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027__next\u0027]/div/div[2]/main/div/div[2]/div/div/div/div[2]/div/textarea",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Home/Page_littlefish - Web-portal/New Folder/Page_littlefish - Web-portal/textarea_J_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Home/Page_littlefish - Web-portal/New Folder/Page_littlefish - Web-portal/textarea_Ju",
+      "brokenLocator": "//textarea[@id\u003d\u0027:r5s:\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027__next\u0027]/div/div[2]/main/div/div[2]/div/div/div/div[2]/div/textarea",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Home/Page_littlefish - Web-portal/New Folder/Page_littlefish - Web-portal/textarea_Ju_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Selling/Products/Adding products/Page_littlefish - Web-portal/Page_littlefish - Web-portal/div_Remove_MuiBackdrop-root MuiBackdrop-inv_66931d",
+      "brokenLocator": "//div[@id\u003d\u0027menu-category\u0027]/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Selling/Products/Adding products/Page_littlefish - Web-portal/Page_littlefish - Web-portal/div_Remove_MuiBackdrop-root MuiBackdrop-inv_66931d_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Selling/Products/Online Catalogue/Add Product/Page_littlefish - Web-portal/input_Name_displayName",
+      "brokenLocator": "//input[@id\u003d\u0027:r1i:\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027__next\u0027]/div/div[2]/main/div[3]/div/form/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Selling/Products/Online Catalogue/Add Product/Page_littlefish - Web-portal/input_Name_displayName_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Selling/Products/Online Catalogue/Add Product/Page_littlefish - Web-portal/div_Remove_MuiBackdrop-root MuiBackdrop-inv_66931d",
+      "brokenLocator": "//div[@id\u003d\u0027menu-category\u0027]/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Selling/Products/Online Catalogue/Add Product/Page_littlefish - Web-portal/div_Remove_MuiBackdrop-root MuiBackdrop-inv_66931d_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Selling/Products/Online Catalogue/Add Product/Page_littlefish - Web-portal/div_test",
+      "brokenLocator": "//li[@id\u003d\u0027:r1j:-option-5\u0027]/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027pants\u0027])[1]/following::div[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Selling/Products/Online Catalogue/Add Product/Page_littlefish - Web-portal/div_test_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Selling/Products/Online Catalogue/Add Product/Page_littlefish - Web-portal/textarea_Testing",
+      "brokenLocator": "//textarea[@id\u003d\u0027:r1l:\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027__next\u0027]/div/div[2]/main/div[3]/div/form/div[4]/div/div/textarea",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Selling/Products/Online Catalogue/Add Product/Page_littlefish - Web-portal/textarea_Testing_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Selling/Products/Online Catalogue/Add Product/Page_littlefish - Web-portal/input__sppi",
+      "brokenLocator": "//input[@id\u003d\u0027:r1m:\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027__next\u0027]/div/div[2]/main/div[5]/div/form/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Selling/Products/Online Catalogue/Add Product/Page_littlefish - Web-portal/input__sppi_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Selling/Products/Online Catalogue/Add Product/Page_littlefish - Web-portal/input__cppi",
+      "brokenLocator": "//input[@id\u003d\u0027:r1n:\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027__next\u0027]/div/div[2]/main/div[5]/div/form/div[2]/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Selling/Products/Online Catalogue/Add Product/Page_littlefish - Web-portal/input__cppi_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Selling/Products/Online Catalogue/Add Product/Page_littlefish - Web-portal/input__stockCount",
+      "brokenLocator": "//input[@id\u003d\u0027:r1u:\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027__next\u0027]/div/div[2]/main/div[6]/form/div[3]/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Selling/Products/Online Catalogue/Add Product/Page_littlefish - Web-portal/input__stockCount_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Selling/Products/Online Catalogue/Add Product/Page_littlefish - Web-portal/input__lowStockValue",
+      "brokenLocator": "//input[@id\u003d\u0027:r1v:\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027__next\u0027]/div/div[2]/main/div[6]/form/div[4]/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Selling/Products/Online Catalogue/Add Product/Page_littlefish - Web-portal/input__lowStockValue_idRelative.png"
+    }
+  ]
 }

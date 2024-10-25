@@ -20,7 +20,6 @@ import org.openqa.selenium.Keys as Keys
 WebUI.openBrowser('')
 
 //WebUI.navigateToUrl('https://generalclothers.littlefish.mobi/account/my-order')
-
 WebUI.navigateToUrl('https://portal.littlefish.mobi/')
 
 WebUI.delay(3)
@@ -29,8 +28,7 @@ WebUI.switchToWindowTitle('littlefish - Web-portal')
 
 WebUI.delay(3)
 
-WebUI.setText(findTestObject('Online Store/Business Info/Page_littlefish - Web-portal/input_Email_r0'), 
-    'crossi@littlefishapp.com')
+WebUI.setText(findTestObject('Online Store/Business Info/Page_littlefish - Web-portal/input_Email_r0'), 'crossi@littlefishapp.com')
 
 WebUI.delay(3)
 
@@ -51,41 +49,41 @@ WebUI.click(findTestObject('Online Store/Business Info/Page_littlefish - Web-por
 
 WebUI.delay(3)
 
-WebUI.scrollToElement(findTestObject('Online Store/Business Info/Page_littlefish - Web-portal/div_Please introduce yourselfPlease add bas_1d0b74'), 0)
+WebUI.scrollToElement(findTestObject('Online Store/Business Info/Page_littlefish - Web-portal/div_Please introduce yourselfPlease add bas_1d0b74'), 
+    0)
 
 WebUI.delay(3)
 
-'Scroll to Intro'
 //WebUI.click(findTestObject('Online Store/Business Info/Page_littlefish - Web-portal/div_Please introduce yourselfPlease add bas_1d0b74'))
-
-WebUI.scrollToElement(findTestObject('Online Store/Business Info/Page_littlefish - Web-portal/div_How do we get in touch with youPlease a_4080b4'), 0)
+'Scroll to Intro'
+WebUI.scrollToElement(findTestObject('Online Store/Business Info/Page_littlefish - Web-portal/div_How do we get in touch with youPlease a_4080b4'), 
+    0)
 
 WebUI.delay(3)
 
-'Scroll to get in touch'
 //WebUI.click(findTestObject('Online Store/Business Info/Page_littlefish - Web-portal/div_How do we get in touch with youPlease a_4080b4'))
-
-WebUI.scrollToElement(findTestObject('Online Store/Business Info/Page_littlefish - Web-portal/div_Where are you locatedPlease add your ad_3a843e'), 0)
+'Scroll to get in touch'
+WebUI.scrollToElement(findTestObject('Online Store/Business Info/Page_littlefish - Web-portal/div_Where are you locatedPlease add your ad_3a843e'), 
+    0)
 
 WebUI.delay(3)
 
-'scroll to location'
 //WebUI.click(findTestObject('Online Store/Business Info/Page_littlefish - Web-portal/div_Where are you locatedPlease add your ad_3a843e'))
-
-WebUI.scrollToElement(findTestObject('Online Store/Business Info/Page_littlefish - Web-portal/div_Do you have any social media linksIf yo_a0d747'), 0)
+'scroll to location'
+WebUI.scrollToElement(findTestObject('Online Store/Business Info/Page_littlefish - Web-portal/div_Do you have any social media linksIf yo_a0d747'), 
+    0)
 
 WebUI.delay(3)
 
-'scroll to socials'
 //WebUI.click(findTestObject('Online Store/Business Info/Page_littlefish - Web-portal/div_Do you have any social media linksIf yo_a0d747'))
-
-WebUI.scrollToElement(findTestObject('Online Store/Business Info/Page_littlefish - Web-portal/div_What times do you operateAdd your openi_2c1ae1'), 0)
+'scroll to socials'
+WebUI.scrollToElement(findTestObject('Online Store/Business Info/Page_littlefish - Web-portal/div_What times do you operateAdd your openi_2c1ae1'), 
+    0)
 
 WebUI.delay(3)
 
-'scroll to time and days'
 //WebUI.click(findTestObject('Online Store/Business Info/Page_littlefish - Web-portal/div_What times do you operateAdd your openi_2c1ae1'))
-
+'scroll to time and days'
 WebUI.click(findTestObject('Online Store/Business Info/Page_littlefish - Web-portal/button_Public Holidays_MuiButtonBase-root M_7e88bd'))
 
 WebUI.delay(3)
@@ -93,6 +91,5 @@ WebUI.delay(3)
 //WebUI.click(findTestObject('Online Store/Business Info/Page_littlefish - Web-portal/path'))
 //
 //WebUI.delay(3)
-
 WebUI.closeBrowser()
 
